@@ -1,2 +1,2 @@
 # conservation-mode
-conservation mode changer for lenovo ideapad laptops
+Only for Lenovo IDEAPAD/LEGION Laptops (i guess)
